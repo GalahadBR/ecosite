@@ -10,4 +10,5 @@ Automating Deployment
 
 # Installation process
 Clone the repository to your local machine and execute the script as follow:
+
 ./install.sh 
