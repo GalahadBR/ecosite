@@ -15,3 +15,6 @@ Automating Deployment
 Clone the repository to your local machine and execute the script as follow:
 
 ./install.sh 
+
+Wait a few minutes and wait for the deployment to be completed. After that, access the URL http://local.ecosia.org
+ and validate.
