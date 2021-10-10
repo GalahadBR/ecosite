@@ -31,7 +31,7 @@ echo "DOCKER image built!"
 echo ""
 
 # DEPLOY APPLICATION IN MINIKUBE CLUSTER
-echo "Building docker image ..."
+echo "Deploying and starting k8s cluster ecosite ..."
 echo "#####################"
 kubectl apply -f deployment.yaml
 echo "Done!"
